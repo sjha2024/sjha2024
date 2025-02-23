@@ -1,4 +1,6 @@
 ## Hi there 👋
+This is my first Repository
+Author- Supriya Kumari
 
 <!--
 **sjha2024/sjha2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
